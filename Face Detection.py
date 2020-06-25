@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-This is a temporary script file.
-"""
 import cv2
 
 faceCascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
